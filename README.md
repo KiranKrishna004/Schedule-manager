@@ -1,7 +1,7 @@
 # Schedule-manager
 Building AI course project
 
-#Summary
+# Summary
 
 This AI project works as an assistant that reads e-mails and automatically schedules meetings in the google calender along with providing meeting links and other relevant information.
 
